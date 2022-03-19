@@ -1,0 +1,17 @@
+.header{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+#button,#objects_detected,#status{
+    font-size: 18px;
+}
+canvas{
+    border: 2px solid white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px white;
+    margin-top: 50px;
+}
+body{
+    background-size: cover ;
+}
